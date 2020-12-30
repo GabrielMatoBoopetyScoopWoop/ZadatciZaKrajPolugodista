@@ -1,0 +1,7 @@
+C:\Users\Mato\source\repos\ZadatciZaKrajPolugodista\ZadatciZaKrajPolugodista\obj\Debug\ZadatciZaKrajPolugodista.csprojAssemblyReference.cache
+C:\Users\Mato\source\repos\ZadatciZaKrajPolugodista\ZadatciZaKrajPolugodista\obj\Debug\ZadatciZaKrajPolugodista.csproj.CoreCompileInputs.cache
+C:\Users\Mato\source\repos\ZadatciZaKrajPolugodista\ZadatciZaKrajPolugodista\bin\Debug\ZadatciZaKrajPolugodista.exe.config
+C:\Users\Mato\source\repos\ZadatciZaKrajPolugodista\ZadatciZaKrajPolugodista\bin\Debug\ZadatciZaKrajPolugodista.exe
+C:\Users\Mato\source\repos\ZadatciZaKrajPolugodista\ZadatciZaKrajPolugodista\bin\Debug\ZadatciZaKrajPolugodista.pdb
+C:\Users\Mato\source\repos\ZadatciZaKrajPolugodista\ZadatciZaKrajPolugodista\obj\Debug\ZadatciZaKrajPolugodista.exe
+C:\Users\Mato\source\repos\ZadatciZaKrajPolugodista\ZadatciZaKrajPolugodista\obj\Debug\ZadatciZaKrajPolugodista.pdb
